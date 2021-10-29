@@ -6,7 +6,7 @@ I'm .net software developer.
 In my free time, I like to create apps that help people be more productive and procrastinate less.
 </div>
 
-### 🔨 Languages, Technologies and Tools:
+### 🔨 Languages, Technologies and Tools
 
 [![Generic badge](https://img.shields.io/badge/C%23-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/.NET&nbsp;Core&nbsp;-green.svg)](https://shields.io/)
@@ -27,11 +27,6 @@ In my free time, I like to create apps that help people be more productive and p
 
 Chrome extension <a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm">Web Activity Time Tracker</a> that track and limit time your activity in the browser every day
   
-  <img
-    src="https://komarev.com/ghpvc/?username=Stigmatoz"
-    alt="Stigmatoz"
-  />
-</p>
 <!--
 **Stigmatoz/Stigmatoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
