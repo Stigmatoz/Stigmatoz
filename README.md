@@ -19,7 +19,7 @@ Chrome extension <a href="https://chrome.google.com/webstore/detail/web-activity
 [![Microsoft Edge Store](https://img.shields.io/badge/dynamic/json?label=Microsoft%20Edge&prefix=v&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Feepmlmdenlkkjieghjmedjahpofieogf&logo=microsoft-edge)](https://microsoftedge.microsoft.com/addons/detail/web-activity-time-tracker/eepmlmdenlkkjieghjmedjahpofieogf)
 
 
-Chrome extension <a href="https://chromewebstore.google.com/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm">Clear YouTube</a> that remove any distractions on YouTube pages - shorts, recomended videos, comments, feed and more.
+Chrome extension <a href="https://chromewebstore.google.com/detail/clear-youtube-block-youtu/kalhfjomailhflienkfajocjodgjipie">Clear YouTube</a> that remove any distractions on YouTube pages - shorts, recomended videos, comments, feed and more.
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/d/kalhfjomailhflienkfajocjodgjipie.svg?&label=Chrome%20users&ogo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/clear-youtube-block-youtu/kalhfjomailhflienkfajocjodgjipie)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/kalhfjomailhflienkfajocjodgjipie?&logoColor=white;label=Rating)](https://chromewebstore.google.com/detail/clear-youtube-block-youtu/kalhfjomailhflienkfajocjodgjipie)
